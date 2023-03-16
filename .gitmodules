@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bezier"]
+	path = bezier
+	url = https://github.com/aaronolsen/bezier
+	shallow = true
+	registered = true
