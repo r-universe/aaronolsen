@@ -8,3 +8,13 @@
 	url = https://github.com/aaronolsen/bezier
 	shallow = true
 	registered = true
+[submodule "StereoMorph"]
+	path = StereoMorph
+	url = https://github.com/cran/StereoMorph
+	shallow = true
+	registered = true
+[submodule "svgViewR"]
+	path = svgViewR
+	url = https://github.com/cran/svgViewR
+	shallow = true
+	registered = true
