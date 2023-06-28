@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bezier"]
 	path = bezier
 	url = https://github.com/aaronolsen/bezier
-	shallow = true
-	registered = true
 [submodule "StereoMorph"]
 	path = StereoMorph
 	url = https://github.com/cran/StereoMorph
-	shallow = true
-	registered = true
 [submodule "svgViewR"]
 	path = svgViewR
 	url = https://github.com/cran/svgViewR
-	shallow = true
-	registered = true
